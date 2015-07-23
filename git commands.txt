@@ -1,0 +1,13 @@
+pwd   get the current dir
+git add *   add all files from working dir to index or repo
+git add filename add only one file
+clear    to clear the screen
+git --version  to know the version of git
+git commit  -a -m "	to commit all files
+git log  to view commit history	
+git log -p	 to view commit history with diff 
+git log --oneline --all    to see the commit history pref mode
+gir diff firstfile  secondfile  to comper diff files
+git diff idnumbe    idnumber  to comper diff commits
+
+
