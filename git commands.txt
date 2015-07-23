@@ -9,5 +9,5 @@ git log -p	 to view commit history with diff
 git log --oneline --all    to see the commit history pref mode
 gir diff firstfile  secondfile  to comper diff files
 git diff idnumbe    idnumber  to comper diff commits
-
+dfdfd
 
