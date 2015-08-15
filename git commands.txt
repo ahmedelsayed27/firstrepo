@@ -1,3 +1,4 @@
+ahmed after the checkout
 pwd   get the current dir
 git add *   add all files from working dir to index or repo
 git add filename add only one file
